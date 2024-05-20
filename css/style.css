@@ -1530,6 +1530,7 @@ li.r-title {
 }
 /*gallary*/
 .gallary {
+  margin-bottom: 80px;
 }
 .gallary .content {
   display: grid;
